@@ -2,8 +2,8 @@ from pyrogram import Client, filters
 import requests
 
 # Ganti 'YOUR_API_ID' dan 'YOUR_API_HASH' dengan nilai yang sesuai
-api_id = 'YOUR_API_ID'
-api_hash = 'YOUR_API_HASH'
+api_id = '29456099'
+api_hash = '34dcbfdfb0eeb9234b8e439fdbef68de'
 bot_token = '8052233761:AAGSxCzrxPCOwJfq5Ydlt7Q82EqbRjk7flc'
 
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)

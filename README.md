@@ -6,7 +6,7 @@ pkg install git
 pkg install python-pip
 ```
 ```
-git clone https://github.com/ipan1434/kontollu 
+git clone https://github.com/ipan1434/Chek-web 
 ```
 ```
 pip install pyrogram

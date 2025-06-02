@@ -13,7 +13,7 @@ import requests
 # Ganti 'YOUR_API_ID' dan 'YOUR_API_HASH' dengan nilai yang sesuai
 api_id = '29456099'
 api_hash = '34dcbfdfb0eeb9234b8e439fdbef68de'
-bot_token = '8052233761:AAGSxCzrxPCOwJfq5Ydlt7Q82EqbRjk7flc'
+bot_token = '7820887672:AAEIm42DMqBSh6w9Id3S0Ls3w1dbhvhssQk'
 
 app = Client("my_bot", api_id=api_id, api_hash=api_hash, bot_token=bot_token)
 

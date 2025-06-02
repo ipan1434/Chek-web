@@ -1,4 +1,4 @@
-# command run
+# command run deploy termux only
 ```
 pkg install git
 ```

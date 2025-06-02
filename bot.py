@@ -1,3 +1,12 @@
+################################################################
+"""
+ Chek-website jangan hapus credit ngentod gua 
+ susah susah but malah hapus credit tolol
+ 
+ @ CREDIT : NOT FOUND 
+"""
+################################################################
+
 from pyrogram import Client, filters
 import requests
 
